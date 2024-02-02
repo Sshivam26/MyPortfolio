@@ -1,7 +1,7 @@
 # MyPortfolio
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e2807b56-7a80-4973-b2c7-082294f01252/deploy-status)](https://app.netlify.com/sites/shivam-portfolio11/deploys)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FHrishi1999%2FopPortfolio)
+
 # Sections
 
 - Home
